@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**bryangyc/bryangyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, Thanks for stopping by! 👋
 
 Here are some ideas to get you started:
 
