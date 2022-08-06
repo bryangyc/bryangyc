@@ -1,4 +1,6 @@
-### Hi there, welcome to my github page!
+## Hi there
+
+### Welcome to my github page!
 
 I'm Bryan, and I am in progress of transiting into the world of Data Science!
 
