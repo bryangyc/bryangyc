@@ -1,7 +1,5 @@
 ### Hi there, Thanks for stopping by! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studing in General Assembly, Data Science Immersive Flex
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Neural Networks
