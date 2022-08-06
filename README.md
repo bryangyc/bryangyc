@@ -9,7 +9,7 @@ I'm Bryan, and I am in progress of transiting into the world of Data Science!
 - 👯 I’m looking to collaborate on Neural Networks
 - 🤔 I’m looking for help with Neural Networks
 - 💬 Ask me about 
-- 📫 How to reach me: bryan.gohyc@gmail.com [LinkedIn](https://www.linkedin.com/in/bryangohyc/)
+- 📫 How to reach me: [Email](bryan.gohyc@gmail.com) [LinkedIn](https://www.linkedin.com/in/bryangohyc/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am deaf in my left ear (since birth).
 
