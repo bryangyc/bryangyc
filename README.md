@@ -4,8 +4,8 @@
 
 I'm Bryan, and I am in progress of transiting into the world of Data Science!
 
-- 🔭 I’m currently studing in General Assembly, Data Science Immersive Flex
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I have just completed General Assembly, Data Science Immersive Flex!
+- 🌱 I’m currently learning more on SQL and Tableau
 - 👯 I’m looking to collaborate on Neural Networks
 - 🤔 I’m looking for help with Neural Networks
 - 💬 Ask me about 
